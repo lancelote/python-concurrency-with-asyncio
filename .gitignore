@@ -1,2 +1,5 @@
 # PyCharm
 .idea/
+
+# Book examples
+vendor/
