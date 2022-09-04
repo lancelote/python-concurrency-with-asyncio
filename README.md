@@ -5,7 +5,8 @@
 
 ## TOC
 
-- [ ] Chapter 1: Getting to know asyncio
+- [ ] [Chapter 1: Getting to know asyncio](src/ch01)
+  - [Bound operations](src/ch01/bound_operations.py)
 - [ ] Chapter 2: asyncio basics
 - [ ] Chapter 3: A first asyncio application
 - [ ] Chapter 4: Concurrent web requests
