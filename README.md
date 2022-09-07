@@ -9,6 +9,7 @@
   - [Bound operations](src/ch01/bound_operations.py)
   - [Processes and threads](src/ch01/processes_and_threads.py)
   - [Multithreaded application](src/ch01/multithreaded.py)
+  - [Multiprocessing application](src/ch01/multiprocessing_app.py)
 - [ ] Chapter 2: asyncio basics
 - [ ] Chapter 3: A first asyncio application
 - [ ] Chapter 4: Concurrent web requests
