@@ -11,6 +11,7 @@
   - [Multithreaded application](src/ch01/multithreaded.py)
   - [Multiprocessing application](src/ch01/multiprocessing_app.py)
   - [Fibonacci with no threads](src/ch01/fib_no_threading.py)
+  - [Naive Multithreading Fibonacci](src/ch01/fib_multithreading.py)
 - [ ] Chapter 2: asyncio basics
 - [ ] Chapter 3: A first asyncio application
 - [ ] Chapter 4: Concurrent web requests
