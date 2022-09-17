@@ -5,7 +5,7 @@
 
 ## TOC
 
-- [ ] [Chapter 1: Getting to know asyncio](src/ch01)
+- [x] [Chapter 1: Getting to know asyncio](src/ch01)
   - [Bound operations](src/ch01/bound_operations.py)
   - [Processes and threads](src/ch01/processes_and_threads.py)
   - [Multithreaded application](src/ch01/multithreaded.py)
