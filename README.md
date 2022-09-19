@@ -14,7 +14,8 @@
   - [Naive Multithreading Fibonacci](src/ch01/fib_multithreading.py)
   - [Synchronously reading status](src/ch01/sync_read_status.py)
   - [Multithreaded status reading](src/ch01/multithreaded_status.py)
-- [ ] Chapter 2: asyncio basics
+- [ ] [Chapter 2: asyncio basics](src/ch02)
+  - [Compare functions and coroutines](src/ch02/compare_coro.py)
 - [ ] Chapter 3: A first asyncio application
 - [ ] Chapter 4: Concurrent web requests
 - [ ] Chapter 5: Non-blocking database drivers
