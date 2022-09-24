@@ -18,6 +18,7 @@
   - [Compare functions and coroutines](src/ch02/compare_coro.py)
   - [Running a coroutine](src/ch02/running_a_coroutine.py)
   - [Using `async`](src/ch02/using_async.py)
+  - [Long-running coroutines](src/ch02/long_running_coroutines.py)
 - [ ] Chapter 3: A first asyncio application
 - [ ] Chapter 4: Concurrent web requests
 - [ ] Chapter 5: Non-blocking database drivers
