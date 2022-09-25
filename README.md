@@ -20,6 +20,7 @@
   - [Using `async`](src/ch02/using_async.py)
   - [Long-running coroutines](src/ch02/long_running_coroutines.py)
   - [`delay` coroutine](src/utils/delay_functions.py)
+  - [Running two coroutines](src/ch02/two_coroutines.py)
 - [ ] Chapter 3: A first asyncio application
 - [ ] Chapter 4: Concurrent web requests
 - [ ] Chapter 5: Non-blocking database drivers
