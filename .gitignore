@@ -3,3 +3,6 @@
 
 # Book examples
 vendor/
+
+# mypy
+.mypy_cache./
