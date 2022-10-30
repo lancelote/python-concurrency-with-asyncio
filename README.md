@@ -22,6 +22,7 @@
   - [`delay` coroutine](src/utils/delay_functions.py)
   - [Running two coroutines](src/ch02/two_coroutines.py)
   - [Basic tasks](src/ch02/basic_tasks.py)
+  - [Running multiple tasks](src/ch02/running_multiple_tasks.py)
 - [ ] Chapter 3: A first asyncio application
 - [ ] Chapter 4: Concurrent web requests
 - [ ] Chapter 5: Non-blocking database drivers
