@@ -23,6 +23,7 @@
   - [Running two coroutines](src/ch02/two_coroutines.py)
   - [Basic tasks](src/ch02/basic_tasks.py)
   - [Running multiple tasks](src/ch02/running_multiple_tasks.py)
+  - [Running code while other operations](src/ch02/run_code_while_other.py)
 - [ ] Chapter 3: A first asyncio application
 - [ ] Chapter 4: Concurrent web requests
 - [ ] Chapter 5: Non-blocking database drivers
