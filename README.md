@@ -26,6 +26,8 @@
   - [Running code while other operations](src/ch02/run_code_while_other.py)
   - [Canceling tasks](src/ch02/canceling_tasks.py)
   - [Setting a timeout](src/ch02/setting_timeout.py)
+  - [Protecting from cancellation](src/ch02/protecting_from_cancel.py)
+  - [Futures](src/ch02/futures.py)
 - [ ] Chapter 3: A first asyncio application
 - [ ] Chapter 4: Concurrent web requests
 - [ ] Chapter 5: Non-blocking database drivers
