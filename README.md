@@ -28,6 +28,7 @@
   - [Setting a timeout](src/ch02/setting_timeout.py)
   - [Protecting from cancellation](src/ch02/protecting_from_cancel.py)
   - [Futures](src/ch02/futures.py)
+  - [Awaiting a future](src/ch02/awaiting_a_future.py)
 - [ ] Chapter 3: A first asyncio application
 - [ ] Chapter 4: Concurrent web requests
 - [ ] Chapter 5: Non-blocking database drivers
