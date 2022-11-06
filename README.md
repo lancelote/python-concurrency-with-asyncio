@@ -14,7 +14,7 @@
   - [Naive Multithreading Fibonacci](src/ch01/fib_multithreading.py)
   - [Synchronously reading status](src/ch01/sync_read_status.py)
   - [Multithreaded status reading](src/ch01/multithreaded_status.py)
-- [ ] [Chapter 2: asyncio basics](src/ch02)
+- [x] [Chapter 2: asyncio basics](src/ch02)
   - [Compare functions and coroutines](src/ch02/compare_coro.py)
   - [Running a coroutine](src/ch02/running_a_coroutine.py)
   - [Using `async`](src/ch02/using_async.py)
