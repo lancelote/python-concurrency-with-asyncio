@@ -35,6 +35,7 @@
   - [CPU-bound code with a sleep](src/ch02/cpu_bound_task.py)
   - [Incorrect work with blocking API](src/ch02/blocking_api_incorrect.py)
   - [Create event loop manually](src/ch02/create_event_loop.py)
+  - [Get event loop](src/ch02/get_event_loop.py)
 - [ ] Chapter 3: A first asyncio application
 - [ ] Chapter 4: Concurrent web requests
 - [ ] Chapter 5: Non-blocking database drivers
