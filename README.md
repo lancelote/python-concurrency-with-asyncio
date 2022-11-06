@@ -29,6 +29,8 @@
   - [Protecting from cancellation](src/ch02/protecting_from_cancel.py)
   - [Futures](src/ch02/futures.py)
   - [Awaiting a future](src/ch02/awaiting_a_future.py)
+  - [Measure coroutine execution time with decorator](src/utils/async_timer.py)
+  - [Timing a coroutine](src/ch02/timing_coroutine.py)
 - [ ] Chapter 3: A first asyncio application
 - [ ] Chapter 4: Concurrent web requests
 - [ ] Chapter 5: Non-blocking database drivers

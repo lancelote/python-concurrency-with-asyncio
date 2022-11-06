@@ -1,3 +1,4 @@
-from src.utils.delay_functions import delay
+from .async_timer import async_timed
+from .delay_functions import delay
 
-__all__ = ("delay",)
+__all__ = ("delay", "async_timed")
