@@ -33,6 +33,7 @@
   - [Timing a coroutine](src/ch02/timing_coroutine.py)
   - [Running CPU-bound code concurrently](src/ch02/cpu_concurrently.py)
   - [CPU-bound code with a sleep](src/ch02/cpu_bound_task.py)
+  - [Incorrect work with blocking API](src/ch02/blocking_api_incorrect.py)
 - [ ] Chapter 3: A first asyncio application
 - [ ] Chapter 4: Concurrent web requests
 - [ ] Chapter 5: Non-blocking database drivers
