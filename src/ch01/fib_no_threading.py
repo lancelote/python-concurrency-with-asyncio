@@ -14,7 +14,7 @@ def print_fib(number: int) -> None:
     print(f"fib({number}) is {fib(number)}")
 
 
-def fib_no_threads():
+def fib_no_threads() -> None:
     print_fib(40)
     print_fib(41)
 

@@ -15,7 +15,7 @@ def print_fib(number: int) -> None:
     print(f"fib({number}) is {fib(number)}")
 
 
-def fib_with_threads():
+def fib_with_threads() -> None:
     thread_40 = threading.Thread(target=print_fib, args=(40,))
     thread_41 = threading.Thread(target=print_fib, args=(41,))
 

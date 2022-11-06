@@ -2,7 +2,7 @@ import multiprocessing
 import os
 
 
-def hello_from_process():
+def hello_from_process() -> None:
     print(f"Hello from child process {os.getgid()}!")
 
 
