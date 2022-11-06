@@ -37,6 +37,7 @@
   - [Create event loop manually](src/ch02/create_event_loop.py)
   - [Get event loop](src/ch02/get_event_loop.py)
   - [Debug mode](src/ch02/debug_mode.py)
+  - [Custom slow callback duration](src/ch02/slow_callback.py)
 - [ ] Chapter 3: A first asyncio application
 - [ ] Chapter 4: Concurrent web requests
 - [ ] Chapter 5: Non-blocking database drivers
