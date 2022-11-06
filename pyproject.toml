@@ -43,3 +43,5 @@ warn_unused_configs = true
 exclude = [
     'vendor/',
 ]
+mypy_path = "src"
+strict = true
