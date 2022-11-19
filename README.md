@@ -39,6 +39,7 @@
   - [Debug mode](src/ch02/debug_mode.py)
   - [Custom slow callback duration](src/ch02/slow_callback.py)
 - [ ] Chapter 3: A first asyncio application
+  - [Simple listening server](src/ch03/simple_server.py)
 - [ ] Chapter 4: Concurrent web requests
 - [ ] Chapter 5: Non-blocking database drivers
 - [ ] Chapter 6: Handling CPU-bound work
