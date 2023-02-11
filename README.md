@@ -41,6 +41,7 @@
 - [ ] Chapter 3: A first asyncio application
   - [Simple listening server](src/ch03/simple_server.py)
   - [Read & send data with a socket](src/ch03/read_send_socket.py)
+  - [Multiple clients with blocking socket](src/ch03/multiple_clients_bad.py)
 - [ ] Chapter 4: Concurrent web requests
 - [ ] Chapter 5: Non-blocking database drivers
 - [ ] Chapter 6: Handling CPU-bound work

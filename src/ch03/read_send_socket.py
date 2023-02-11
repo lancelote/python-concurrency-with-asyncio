@@ -22,7 +22,7 @@ def main() -> None:
             else:
                 print(f"I got data: {data!r}")
                 buffer += data
-        print(f"all the data is: {buffer!r}")
+        print(f"All the data is: {buffer!r}")
         connection.sendall(buffer)
     finally:
         server_socket.close()
