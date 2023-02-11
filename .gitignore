@@ -9,3 +9,4 @@ vendor/
 
 # Python
 __pycache__/
+.venv/
