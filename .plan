@@ -1,0 +1,18 @@
+Sep 25, 2024
+
+update `uv` to 0.4.16
+unpin specific dependency versions
+update `ruff` to 0.6.7
+
+Sep 8, 2024
+
+update `uv` to 0.4.7
+
+Sep 7, 2024
+
+update housekeeping scripts to use multithreading
+
+Sep 5, 2024
+
+review previously read chapters
+read the official asyncio documentation
