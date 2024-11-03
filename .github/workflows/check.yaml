@@ -18,11 +18,14 @@ jobs:
         with:
           python-version: "3.13"
 
-      - name: install poetry
-        run: pip install poetry
+      - name: install uv
+        uses: astral-sh/setup-uv@v3
+        with:
+          enable-cache: true
+          cache-dependency-glob: "uv.lock"
 
       - name: install project dependencies
-        run: poetry install
+        run: uv sync --all-extras --dev
 
       - name: lint
-        run: poetry run pre-commit run --all-files
+        run: uv run pre-commit run --all-files
