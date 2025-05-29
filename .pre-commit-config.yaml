@@ -15,18 +15,18 @@ repos:
         additional_dependencies: [types-requests==2.32.0.20240905]
 
   - repo: https://github.com/asottile/reorder_python_imports
-    rev: v3.14.0
+    rev: v3.15.0
     hooks:
     -   id: reorder-python-imports
         args: [--py312-plus]
 
   - repo: https://github.com/asottile/pyupgrade
-    rev: v3.19.1
+    rev: v3.20.0
     hooks:
     -   id: pyupgrade
         args: [--py312-plus]
 
   - repo: https://github.com/charliermarsh/ruff-pre-commit
-    rev: v0.11.11
+    rev: v0.11.12
     hooks:
       - id: ruff
